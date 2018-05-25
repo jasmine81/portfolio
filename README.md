@@ -13,4 +13,4 @@ By using HTML:
 By using CSS:
     It is used to get style for our project.
     It has various attributes like background color,border radius,width,height,border-color 
-I include linkrel=stylesheet tag along with metatag in HTML file.HTML includes the data about all images.CSS is used to give some extra features to webpage
+I include linkrel=stylesheet tag in HTML file.HTML includes the data about all images.CSS is used to give some extra features to webpage
