@@ -12,5 +12,5 @@ By using HTML:
     Some related text about it by clicking on the name of the wonder
 By using CSS:
     It is used to get style for our project.
-    It has various attributes like background color,border radius,width,height,border-color 
+    It has various attributes like background color,border radius,width,height,border-color,footer.
 I include linkrel=stylesheet tag in HTML file.HTML includes the data about all images.CSS is used to give some extra features to webpage
