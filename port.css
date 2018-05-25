@@ -1,0 +1,101 @@
+ img{
+      margin:0px auto; 
+      border-radius:55px;
+  }
+  .e{
+      
+     float:left;
+    
+  }
+  .a{
+      border: 5px solid;
+      border-radius:10px;
+     border-color:#ffff00;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom, #bf8040 0%, #ffdd99 100%);
+     float:left;
+  }
+  .b{
+     border: 5px solid;
+     border-radius:10px;
+     border-color:#ff3333;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    float:left;
+  }
+  .c{
+     border: 5px solid;
+     border-radius:10px;
+     border-color:#3399ff;   
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom, #669900 0%, #99ff66 100%);
+     float:left;
+     
+  }
+  .d{
+      border: 5px solid;
+     border-radius:10px;
+      border-color:#00802b;
+      width:200px;
+      height:470px;
+      margin:20px 20px;
+     background: linear-gradient(to bottom, #4dffff 0%, #ffbf80 100%);
+     float:left;
+  }
+  .f{
+      border: 5px solid;
+      border-radius:10px;
+     border-color:#ff1a8c;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom, #ffffcc 0%, #ffff1a 100%);
+     float:left;
+  }
+  .g{
+      border: 5px solid;
+      border-radius:10px;
+     border-color:#804000;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom,  #ccffcc 0%, #00ffff 100%);
+     float:left;
+  }
+  .h{
+      border: 5px solid;
+      border-radius:10px;
+     border-color:#800060;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom,  #ff6666 0%, #ffe6f2 100%);
+    float:left;
+  }
+  .i{
+      border: 5px solid;
+      border-radius:10px;
+     border-color:#fff3300;
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     background: linear-gradient(to bottom, #009999 0%,  #cce6ff 100%);
+     float:left;
+   .j{
+     width:200px;
+     height:470px;
+     margin:20px 20px;
+     
+  }
+  .a,.b,.c,.d,.f,.g,.h,.i
+  {
+     padding:10px;
+     margin-left:20px;
+     margin-top:20px;
+  }
