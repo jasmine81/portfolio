@@ -99,5 +99,38 @@
      margin-left:20px;
      margin-top:20px;
   }
-  @media screen and (max-width: 500x){
-     .
+  footer
+  {
+    text-align: center;
+    background-color:white;
+  }
+  .wonder
+  {
+    display:inline-block;
+    width: 87%;
+    box-shadow: 0px 0px 20px blue;
+    margin-left: 8%;
+    margin-top:10%;
+    position:relative;
+  }
+  h1,
+  p,
+  h2,
+  footer{
+     word-break:break-all;
+  }
+  @media screen and (max-width: 250x){
+     .wonder{
+         width: 50%;
+     }
+  }
+  @media screen and (max-width: 500px){
+     .wonder{
+       width: 100%;
+     }
+  }
+  @media screen and (max-width: 64px){
+    .wonder{
+       font-size: 3px;
+    }
+  }
